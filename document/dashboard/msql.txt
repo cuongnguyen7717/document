@@ -1,0 +1,4 @@
+user(id, ac, pass, nameuser)
+documents(idd,title,content
+file(idf,date,user)
+category( id, category,)
